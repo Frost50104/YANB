@@ -1,2 +1,3 @@
 
-print("Hi from Main!")
+
+print("Hi from YAB и Main!")
