@@ -1,4 +1,10 @@
-.idea/*
+# Игнорирование системного файла macOS
+.DS_Store
+
+# Игнорирование папок IDE (например, PyCharm или IntelliJ IDEA)
+.idea/
+
+*.pyc
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
