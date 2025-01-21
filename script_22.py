@@ -25,3 +25,5 @@ print(sorted(data, key = lambda x: x[0] / x[1]**2))
 # Найти минимальные элемент из списка выше
 
 print(min(data, key=lambda x: x[0] / x[1] ** 2))
+
+
